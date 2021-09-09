@@ -1,2 +1,2 @@
 # SnakeGame
-Projet sur javascript
+jeu serpent avec HTML CSS et Javascript
